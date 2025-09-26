@@ -18,9 +18,6 @@ Shape Drawer — это образовательное JavaFX-приложени
 🔄 Планы развития:
 v1.1: Добавление drag-and-drop функциональности
 
-📥 Установка и запуск:
-bash
-git clone https://github.com/your-username/shape-drawer.git
-cd shape-drawer
-mvn clean javafx:run
+
+
 <img width="292" height="293" alt="image" src="https://github.com/user-attachments/assets/36a87ce9-f42f-499c-8be1-bd38edad5651" />
